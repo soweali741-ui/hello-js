@@ -17,6 +17,6 @@ Build & Deploy My Express API
 ## Developer
 Ali Sowe - Backend Developer (Node.js/Java)
 SCADA Technician at NAWEC | CCNA Certified
-Open to KL, Malaysia - Employment Pass
+Open to remote, and relocate positions. 
 
 Email: soweali741@gmail.com
